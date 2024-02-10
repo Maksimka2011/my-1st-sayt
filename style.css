@@ -137,3 +137,11 @@ main{
     font-weight: 15px;
     line-height: 27.5px; 
 }
+.card{
+     display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 72px;}
